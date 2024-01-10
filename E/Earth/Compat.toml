@@ -1,5 +1,7 @@
 [0]
-Lasso = "0.7"
-Statistics = "1.9.0-1"
 StatsAPI = "1.6.0-1"
 julia = "1.9.0-1"
+
+["0-0.1"]
+Lasso = "0.7"
+Statistics = "1.9.0-1"
